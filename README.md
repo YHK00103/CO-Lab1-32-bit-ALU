@@ -6,7 +6,7 @@ computing component of a CPU. Its operations include AND, OR, addition, subtract
 ## Lab Requirement
 1. instruction set: basic operation instruction
 ![image](https://github.com/YHK00103/CO-Lab1-32-bit-ALU/assets/117156581/a38800fb-b6fc-4874-b666-3c7f85bb87c5)
-2. zcv three control signal: zero, carry out, overflow\n
+2. zcv three control signal: zero, carry out, overflow  
   a. “zero”must be set when the result is 0.
   b. “cout”must be set when there is a carry out.
   c. “overflow”must be set when overflow.
